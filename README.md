@@ -6,7 +6,7 @@ This repository is maintained as a **backend engineering lab**, focusing on fund
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project exists to:
 - Strengthen backend fundamentals
@@ -18,7 +18,7 @@ This is **not** a throwaway or tutorial repository.
 
 ---
 
-## 🛠 Tech Stack (Phase-wise)
+##  Tech Stack (Phase-wise)
 
 ### Phase 1 — Core Backend (Current)
 - Java
@@ -38,7 +38,7 @@ This is **not** a throwaway or tutorial repository.
 
 ---
 
-## 🌱 Repository Evolution Strategy
+##  Repository Evolution Strategy
 
 This repository evolves **without changing its identity**:
 
@@ -55,7 +55,7 @@ This approach reflects real backend system evolution.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository
 2. Configure database credentials in `application.properties`
@@ -64,14 +64,14 @@ This approach reflects real backend system evolution.
 
 ---
 
-## 📌 Status
+##  Status
 
-🚧 Under active development  
+ Under active development  
 Features are added incrementally with clear, meaningful commits.
 
 ---
 
-## 🧠 Philosophy
+##  Philosophy
 
 - Build before optimizing
 - One feature at a time
@@ -80,7 +80,7 @@ Features are added incrementally with clear, meaningful commits.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sujal Patil**  
 
